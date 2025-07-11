@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+
+main {
+  background: white;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 8px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#counter {
+  margin-top: 10px;
+  color: #555;
+}
