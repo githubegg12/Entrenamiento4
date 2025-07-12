@@ -13,7 +13,6 @@ window.addEventListener('load', () => {
   showCounter();
   loadFromServer();
 });
-
 // Save data from the form
 saveBtn.addEventListener('click', async (event) => {
   event.preventDefault();

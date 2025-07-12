@@ -1,6 +1,6 @@
-README - Training – Module 3 Week 3
+README - Training – Module 3 Week 4
 
-CRUD
+Training 4
 
 Project Description
 
@@ -25,7 +25,7 @@ Requirements
 How to use it
 
 1. Clone the project
-git clone https://github.com/githubegg12/Module3Week3.git
+git clone https://github.com/githubegg12/Entrenamiento4.git
 
 2. Install dependencies
 npm i
@@ -68,8 +68,6 @@ Project structure
 │   │   └── styles.css  #Styling for the application
 │   └── /JavaScript
 │       └── main.js #Main logic for web page
-
-
 
 
 
